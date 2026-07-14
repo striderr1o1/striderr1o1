@@ -11,7 +11,7 @@
       <ul>
         <li>2nd year Computer Science student</li>
         <li>Self-taught full stack dev focused on <b>Generative AI</b> — RAG, agents, and LLM apps</li>
-        <li>Comfortable across the stack: <b>React · FastAPI · MongoDB</b>, with <b>LangChain / LangGraph</b> for the AI side</li>
+        <li>Comfortable across the stack: <b>React · FastAPI · MongoDB · supabase</b>, with <b>LangChain / LangGraph</b> for the AI side</li>
         <li>Ask me about AI agents, RAG pipelines, or full stack builds</li>
         <li>Reach me: <b>mnipk1243@gmail.com</b></li>
       </ul>
