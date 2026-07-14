@@ -1,19 +1,23 @@
 <h1 align="center">Muhammad Mustafa Noman</h1>
 <p align="center">Full stack developer · Building AI-powered apps · CS student</p>
 
-<p align="center">
-  <img src="./assets/ascii-art.png" alt="ASCII art ranger" width="520" />
-</p>
-
----
-
-### About
-
-- 2nd year Computer Science student
-- Self-taught full stack dev focused on **Generative AI** — RAG, agents, and LLM apps
-- Comfortable across the stack: **React · FastAPI · MongoDB**, with **LangChain / LangGraph** for the AI side
-- Ask me about AI agents, RAG pipelines, or full stack builds
-- Reach me: **mnipk1243@gmail.com**
+<table>
+  <tr>
+    <td width="42%" valign="middle">
+      <img src="./assets/ascii-art.png" alt="ASCII art ranger" width="100%" />
+    </td>
+    <td width="58%" valign="middle">
+      <h3>About</h3>
+      <ul>
+        <li>2nd year Computer Science student</li>
+        <li>Self-taught full stack dev focused on <b>Generative AI</b> — RAG, agents, and LLM apps</li>
+        <li>Comfortable across the stack: <b>React · FastAPI · MongoDB</b>, with <b>LangChain / LangGraph</b> for the AI side</li>
+        <li>Ask me about AI agents, RAG pipelines, or full stack builds</li>
+        <li>Reach me: <b>mnipk1243@gmail.com</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,15 +48,6 @@
 
 ---
 
-### Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=striderr1o1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=striderr1o1&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080" />
-</p>
-
----
-
 ### Links
 
 <p align="center">
@@ -60,4 +55,4 @@
   <a href="mailto:mnipk1243@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>“Whoever treads a path seeking knowledge, Allah makes easy for them a path to Paradise.”</i></p>
+<p align="center"><i>“Coding with purpose”</i></p>
