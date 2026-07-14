@@ -5,23 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+Agent+Builder;Turning+ideas+into+working+prototypes" alt="Typing SVG" />
 </p>
 
-```
-                          ______
-                        .'      '.            >>------>
-        .-.            /   .--.   \          /
-       (o.o)          |   /    \   |        /
-        |=|           |  |  ()  |  |   ()==={=========>
-       .' '.           \  \    /  /       \
-      /  |  \           '.  '--'  .'        \
-     /_ / \ _\            '.____.'           >>------>
-        | |               /|    |\
-        | |              / |    | \
-       /   \            /  |    |  \
-      /     \          |   |    |   |
-     '-------'         |   |    |   |
-      RANGER           '---'    '---'
-     striderr1o1        MEDIEVAL  ·  BOW  ·  ARROW
-```
+<p align="center">
+  <img src="./assets/ascii-art.png" alt="ASCII art ranger" width="600" />
+</p>
 
 ---
 
