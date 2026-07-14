@@ -25,11 +25,11 @@
 
 **Languages** &nbsp;&nbsp; Python · JavaScript · C++ · C · HTML · CSS
 
-**Frontend & Backend** &nbsp;&nbsp; React · FastAPI · MongoDB
+**Frontend & Backend** &nbsp;&nbsp; React · FastAPI · MongoDB · supabase · PostGRESQL  
 
-**AI / Agents** &nbsp;&nbsp; LangChain · LangGraph · CrewAI
+**AI / Agents** &nbsp;&nbsp; LangChain · LangGraph· LangSmith · CrewAI · chromaDB · Pinecone · Advanced RAG · OpenRouter · Groq · Gemini · Claude Code 
 
-**Tools** &nbsp;&nbsp; Linux · Git · GitHub
+**Tools** &nbsp;&nbsp; Linux · Git · GitHub · Docker · Redis · Pydantic
 
 ---
 
@@ -37,7 +37,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **AI Operations Copilot** | Multi-agent orchestration for knowledge base operations and room booking within an organization | React · FastAPI |
+| **AI Operations Copilot** | Multi-agent orchestration for knowledge base operations and room booking within an organization | FastAPI · LangGraph · supabase · Pinecone|
 | **AI Grocery Expense Tracker** | Tracks grocery spending with AI-powered insights | React · FastAPI |
 | **Voice AI with RAG** | Voice-driven assistant that answers from your own knowledge base | Python · LangChain · RAG |
 | **Research Agent** | Autonomous agent that gathers and synthesizes research | LangGraph · Python |
