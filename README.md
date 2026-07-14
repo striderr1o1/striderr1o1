@@ -51,7 +51,7 @@
 ### Links
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/mustafanoman">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:mnipk1243@gmail.com">Email</a>
 </p>
 
