@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Mustafa Noman</h1>
-<p align="center">Full stack developer · Building AI-powered apps · CS student</p>
+<p align="center">AI/Backend Engineer · Building AI-powered apps · CS student</p>
 
 <table>
   <tr>
@@ -9,8 +9,8 @@
     <td width="58%" valign="middle">
       <h3>About</h3>
       <ul>
-        <li>2nd year Computer Science student</li>
-        <li>Self-taught full stack dev focused on <b>Generative AI</b> — RAG, agents, and LLM apps</li>
+        <li>Computer Science student</li>
+        <li>Self-taught full stack dev focused on <b>Backend and Generative AI</b> — RAG, agents, and LLM apps</li>
         <li>Comfortable across the stack: <b>React · FastAPI · MongoDB · supabase</b>, with <b>LangChain / LangGraph</b> for the AI side</li>
         <li>Ask me about AI agents, RAG pipelines, or full stack builds</li>
         <li>Reach me: <b>mnipk1243@gmail.com</b></li>
