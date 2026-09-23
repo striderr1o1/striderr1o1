@@ -6,42 +6,23 @@
   <a href="mailto:mnipk1243@gmail.com">mnipk1243@gmail.com</a>
 </p>
 
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <img src="./assets/ascii-art.png" alt="Mustafa Noman" width="100%" />
-    </td>
-    <td width="62%" valign="top">
-      <h3>About</h3>
-      <p>
-        I build AI backend services and multi-agent orchestrations — the agent graph, the API
-        in front of it, and the evals that keep it honest.
-      </p>
-      <p>
-        Most of my time goes to
-        <a href="https://github.com/striderr1o1/Multi-Agent-Frontdesk"><b>Multi-Agent-Frontdesk</b></a>,
-        a multi-tenant agent platform. An orchestrator routes between a Pinecone RAG agent and a
-        booking agent over a LangGraph state machine; every business gets its own vector namespace
-        and its own row-level-security scope, chat streams over SSE, and the orchestrator's routing
-        decisions are graded by a <b>60-scenario regression suite</b> instead of vibes.
-        (<a href="https://striderr1o1.github.io/operations-copilot-js/">live</a> ·
-        <a href="https://www.youtube.com/watch?v=WkthJS-O92c">build vlog</a>)
-      </p>
-      <p>
-        Interesting stuff: tenant isolation for each business,
-        hop limits and retries, providers that quietly ignore a strict <code>response_format</code>.
-        Python and async FastAPI are home, Postgres is the heart of it, and I'll build the React front
-        end if that's needed.
-      </p>
-      <ul>
-        <li><b>Now</b>Open to AI engineering/ backend engineering roles.</li>
-        <li><b>Recently</b> — Product Builder (intern) at insite.life, an early-stage UK startup, remote.</li>
-        <li><b>Ask me about</b> — LangGraph orchestration, RAG that survives real documents, multi-tenant FastAPI, writing evals for agents.</li>
-        <li><b>Reach me</b> — <a href="mailto:mnipk1243@gmail.com">mnipk1243@gmail.com</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/about-terminal.svg" alt="mustafa@arch — AI Engineer in Islamabad, building LLM agent backends: the graph, the API in front of it, and the evals that keep it honest. Currently: multi-agent-frontdesk, research-agent." width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/striderr1o1/Multi-Agent-Frontdesk"><b>Multi-Agent-Frontdesk</b></a> — a multi-tenant agent
+  platform. An orchestrator routes between a Pinecone RAG agent and a booking agent on a LangGraph loop, with per-tenant
+  vector namespaces and row-level security, SSE streaming, and a 60-scenario regression suite over the routing decisions.<br/>
+  <a href="https://striderr1o1.github.io/operations-copilot-js/">live</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/watch?v=WkthJS-O92c">build vlog</a> &nbsp;·&nbsp;
+  <a href="mailto:mnipk1243@gmail.com">mnipk1243@gmail.com</a>
+</p>
+
+<p align="center">
+  <sub><b>Recently</b> — Product Builder (intern) at insite.life, an early-stage UK startup, remote.<br/>
+  <b>Ask me about</b> — LangGraph orchestration, RAG that survives real documents, multi-tenant FastAPI, writing evals for agents.</sub>
+</p>
 
 ---
 
