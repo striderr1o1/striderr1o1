@@ -1,19 +1,43 @@
 <h1 align="center">Muhammad Mustafa Noman</h1>
-<p align="center">AI/Backend Engineer · Building AI-powered apps · CS student</p>
+<p align="center">
+  <b>AI Engineer</b> · LLM agent backends, RAG pipelines, and the APIs around them<br/>
+  <a href="https://treemustafa.com">treemustafa.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/mustafanoman">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:mnipk1243@gmail.com">mnipk1243@gmail.com</a>
+</p>
 
 <table>
   <tr>
-    <td width="42%" valign="middle">
-      <img src="./assets/ascii-art.png" alt="ASCII art ranger" width="100%" />
+    <td width="38%" valign="top">
+      <img src="./assets/ascii-art.png" alt="Mustafa Noman" width="100%" />
     </td>
-    <td width="58%" valign="middle">
+    <td width="62%" valign="top">
       <h3>About</h3>
+      <p>
+        I build AI backend services and multi-agent orchestrations — the agent graph, the API
+        in front of it, and the evals that keep it honest.
+      </p>
+      <p>
+        Most of my time goes to
+        <a href="https://github.com/striderr1o1/Ai-Workspace-Operations-Copilot"><b>AI Workspace Operations Copilot</b></a>,
+        a multi-tenant agent platform. An orchestrator routes between a Pinecone RAG agent and a
+        booking agent over a LangGraph state machine; every business gets its own vector namespace
+        and its own row-level-security scope, chat streams over SSE, and the orchestrator's routing
+        decisions are graded by a <b>60-scenario regression suite</b> instead of vibes.
+        (<a href="https://striderr1o1.github.io/operations-copilot-js/">live</a> ·
+        <a href="https://www.youtube.com/watch?v=WkthJS-O92c">build vlog</a>)
+      </p>
+      <p>
+        The parts I actually enjoy are the ones that only show up in production: tenant isolation,
+        hop limits and retries, providers that quietly ignore a strict <code>response_format</code>.
+        Python and async FastAPI are home, Postgres is close behind, and I'll build the React front
+        end when a project needs one.
+      </p>
       <ul>
-        <li>Computer Science student</li>
-        <li>Self-taught full stack dev focused on <b>Backend and Generative AI</b> — RAG, agents, and LLM apps</li>
-        <li>Comfortable across the stack: <b>React · FastAPI · MongoDB · supabase</b>, with <b>LangChain / LangGraph</b> for the AI side</li>
-        <li>Ask me about AI agents, RAG pipelines, or full stack builds</li>
-        <li>Reach me: <b>mnipk1243@gmail.com</b></li>
+        <li><b>Now</b> — BS Computer Science, Bahria University Islamabad ('28). Open to AI / backend engineering roles.</li>
+        <li><b>Recently</b> — Product Builder (intern) at insite.life, an early-stage UK startup, remote.</li>
+        <li><b>Ask me about</b> — LangGraph orchestration, RAG that survives real documents, multi-tenant FastAPI, writing evals for agents.</li>
+        <li><b>Reach me</b> — <a href="mailto:mnipk1243@gmail.com">mnipk1243@gmail.com</a></li>
       </ul>
     </td>
   </tr>
@@ -51,6 +75,7 @@
 ### Links
 
 <p align="center">
+  <a href="https://treemustafa.com">Website</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mustafanoman">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:mnipk1243@gmail.com">Email</a>
 </p>
