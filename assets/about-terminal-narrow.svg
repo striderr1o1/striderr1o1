@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 344 420" width="344" height="420" role="img" aria-label="Terminal session: Muhammad Mustafa Noman, AI Engineer in Islamabad, Pakistan, open to AI and backend engineering roles. Builds LLM agent backends — the graph, the API in front of it, and the evals that keep it honest. Current work: multi-agent-frontdesk and research-agent.">
+  <title>mustafa@arch — whoami</title>
+
+  <defs>
+    <clipPath id="win">
+      <rect x="0" y="0" width="344" height="420" rx="10" />
+    </clipPath>
+    <style>
+      .m { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; font-size: 15px; }
+      .t { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; font-size: 11px; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="344" height="420" fill="#06100C" />
+    <rect width="344" height="34" fill="#0A1A13" />
+    <circle cx="20" cy="17" r="5.5" fill="#E06C6C" />
+    <circle cx="40" cy="17" r="5.5" fill="#D9A441" />
+    <circle cx="60" cy="17" r="5.5" fill="#34D399" />
+    <text class="t" x="172" y="21" text-anchor="middle" fill="#5E8577">mustafa@arch: ~</text>
+    <rect x="0" y="33.5" width="344" height="1" fill="#14532D" />
+
+    <text class="m" x="20" y="62"><tspan fill="#6EE7B7" font-weight="bold">mustafa@arch</tspan><tspan fill="#8FA89E"> </tspan><tspan fill="#7DD3FC">~</tspan><tspan fill="#4D7C6B"> $ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
+    <text class="m" x="20" y="86" fill="#E6EDF3" font-weight="bold">Muhammad Mustafa Noman</text>
+    <text class="m" x="20" y="110" fill="#6EE7B7">AI Engineer · Islamabad, PK</text>
+    <text class="m" x="20" y="134" fill="#8FA89E">open to AI / backend roles</text>
+
+    <text class="m" x="20" y="182"><tspan fill="#6EE7B7" font-weight="bold">mustafa@arch</tspan><tspan fill="#8FA89E"> </tspan><tspan fill="#7DD3FC">~</tspan><tspan fill="#4D7C6B"> $ </tspan><tspan fill="#E6EDF3">cat focus.txt</tspan></text>
+    <text class="m" x="20" y="206" fill="#A8BDB4">LLM agent backends. The graph,</text>
+    <text class="m" x="20" y="230" fill="#A8BDB4">the API in front of it, and the</text>
+    <text class="m" x="20" y="254" fill="#A8BDB4">evals that keep it honest.</text>
+
+    <text class="m" x="20" y="302"><tspan fill="#6EE7B7" font-weight="bold">mustafa@arch</tspan><tspan fill="#8FA89E"> </tspan><tspan fill="#7DD3FC">~</tspan><tspan fill="#4D7C6B"> $ </tspan><tspan fill="#E6EDF3">ls -1 ~/now</tspan></text>
+    <text class="m" x="20" y="326" fill="#6EE7B7">multi-agent-frontdesk/</text>
+    <text class="m" x="20" y="350" fill="#6EE7B7">research-agent/</text>
+
+    <text class="m" x="20" y="398"><tspan fill="#6EE7B7" font-weight="bold">mustafa@arch</tspan><tspan fill="#8FA89E"> </tspan><tspan fill="#7DD3FC">~</tspan><tspan fill="#4D7C6B"> $ </tspan><tspan fill="#6EE7B7">█<animate attributeName="fill-opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" repeatCount="indefinite" /></tspan></text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="343" height="419" rx="10" fill="none" stroke="#14532D" />
+</svg>

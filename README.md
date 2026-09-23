@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about-terminal.svg" alt="mustafa@arch — AI Engineer in Islamabad, building LLM agent backends: the graph, the API in front of it, and the evals that keep it honest. Currently: multi-agent-frontdesk, research-agent." width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/striderr1o1/striderr1o1/main/assets/about-terminal-narrow.svg" />
+    <img src="./assets/about-terminal.svg" alt="mustafa@arch — AI Engineer in Islamabad, building LLM agent backends: the graph, the API in front of it, and the evals that keep it honest. Currently: multi-agent-frontdesk, research-agent." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
